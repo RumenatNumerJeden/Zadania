@@ -3,6 +3,6 @@
     <title> Siema</title>
   </head>
   <body>
-    <a href= "./Ogul.html> Zadania</a>
+    <a href= "./Ogul.html"> Zadania</a>
   </body>
 </html>
